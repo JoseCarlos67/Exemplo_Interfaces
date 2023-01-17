@@ -5,7 +5,6 @@ import java.time.LocalDateTime;
 public class CarRental {
 
 	private LocalDateTime start, finish;
-	
 	private Vehicle vehicle;
 	private Invoice invoice;
 	
